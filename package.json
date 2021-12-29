@@ -1,0 +1,24 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "rest api mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendro99/restapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "mysql"
+  ],
+  "author": "hero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendro99/restapi/issues"
+  },
+  "homepage": "https://github.com/hendro99/restapi#readme"
+}
